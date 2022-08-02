@@ -26,14 +26,14 @@ nav-menu:
   permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
-github: https://github.com/
-linkedin: https://linkedin.com/
+twitter: false
+facebook: https://facebook.com/samielsayedtj
+instagram: https://instagram.com/samielsayedtj
+github: https://github.com/selsayed25
+linkedin: false
 medium: false
 google-scholar: false
-email: false
+email: mailto:2025selsayed@tjhsst.edu
 
 # footer information
 footer-msg: "Powered by Tailpages"
