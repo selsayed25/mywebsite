@@ -10,6 +10,8 @@ permalink: about
 
 <h3 align = "center">Elsayed in 2021</h3>
 
+_______________________________________________________________________
+
 <h2 align = "center">Early Childhood (2007-2016)</h2>
 
 <p align = "center">Born at the Fairfax INOVA Hospital in Falls Church, Virginia to two Sudanese parents on January 27, 2007. Sami E Elsayed has lived his entire life in Northern Virginia. He lived in Herndon during his first year, before moving to Reston in 2008. He lived in a considerably poor neighborhood in Reston called Cedar Ridge, where most people lived with a considerably small amount of money. From there, he attended Forest Edge Elementary during the 2009-2010 school year as a preschooler. He was a child of mental/physical issues, though these issues have worn off after many years. Having undergone surgery in his left leg, he was wheelchaired for 1-2 years, before having it taken off in 2011. He undergone checks at the Reston Hospital in 2012. He had serious issues with English, having to learn English in two different classes, though he is exceptional in mathematics, history, and science. He once took part of the Sudanese protests in 2013, which part of a revolution that is going across the Middle East (Arab Spring).</p>
