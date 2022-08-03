@@ -8,7 +8,7 @@ permalink: about
 
 <img class = "mx-auto w-1/2" src = "{{ site.baseurl }}/assets/img/241408005_551143766213964_3907764800601857433_n.jpg">
 
-<p align = "center">Elsayed in 2021</p>
+<h5 align = "center">Elsayed in 2021</h5>
 
 ## Early Childhood (2007-2016)
 
