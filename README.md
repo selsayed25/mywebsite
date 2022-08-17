@@ -1,6 +1,6 @@
 # My Official website using Tailpages
 
-Effective after August 2, 2022, the <a href = "selsayed.github.io">selsayed.github.io</a> will be a dynamic website using TailwindCSS. The website change will allow 
+Effective after August 2, 2022, the <a href = "selsayed.github.io/mywebsite">selsayed.github.io</a> will be a dynamic website using TailwindCSS. The website change will allow 
 
 <!--
 # About
